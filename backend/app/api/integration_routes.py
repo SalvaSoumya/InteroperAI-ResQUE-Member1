@@ -92,7 +92,7 @@ def get_member2_base_url() -> str:
                 if url.endswith(suffix):
                     url = url[:-len(suffix)].rstrip("/")
             return url
-    return "https://isolation-stones-football-raw.trycloudflare.com"
+    return "https://interoperai-member2-api.onrender.com"
 
 
 def get_member2_receive_url() -> str:
