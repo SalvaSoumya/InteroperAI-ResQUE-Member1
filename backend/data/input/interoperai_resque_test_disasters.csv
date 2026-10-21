@@ -1,0 +1,9 @@
+incident_id,disaster_type,location,latitude,longitude,reported_casualties,injured_population,estimated_loss,priority_level,description
+TEST-FLD-001,Flash Flood,"Austin, Texas, USA",30.2672,-97.7431,0.0,3.0,250000.0,Unknown,Synthetic test record: flash flooding after intense rainfall; three injuries reported.
+TEST-EQK-002,Earthquake,"San Jose, California, USA",37.3382,-121.8863,2.0,18.0,12000000.0,Unknown,"Synthetic test record: earthquake with reported fatalities, injuries, and property damage."
+TEST-WLD-003,Wildfire,"Boise, Idaho, USA",43.615,-116.2023,0.0,1.0,3400000.0,Unknown,Synthetic test record: wildfire with estimated property and crop loss.
+TEST-CYC-004,Cyclone,"Savannah, Georgia, USA",32.0809,-81.0912,,,,Unknown,Synthetic test record: casualty and damage information not yet assessed.
+TEST-DRT-005,Drought,"Amarillo, Texas, USA",35.222,-101.8313,0.0,0.0,0.0,Unknown,"Synthetic test record: no casualties, injuries, or economic loss reported in this test record."
+TEST-TOR-006,Tornado,"Wichita, Kansas, USA",37.6872,-97.3301,1.0,7.0,1800000.0,Unknown,"Synthetic test record: tornado with one reported fatality, injuries, and estimated loss."
+TEST-HTW-007,Extreme Heat,"Phoenix, Arizona, USA",33.4484,-112.074,0.0,12.0,150000.0,Unknown,Synthetic test record: extreme heat incident with twelve reported injuries.
+TEST-UNK-008,Severe Weather,"Denver, Colorado, USA",39.7392,-104.9903,,0.0,50000.0,Unknown,Synthetic test record: casualties not assessed; zero injuries and estimated loss recorded.

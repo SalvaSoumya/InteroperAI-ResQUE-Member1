@@ -1,0 +1,31 @@
+EVENT_ID,EPISODE_ID,EVENT_TYPE,STATE,CZ_NAME,BEGIN_LOCATION,BEGIN_YEARMONTH,BEGIN_DAY,BEGIN_TIME,BEGIN_LAT,BEGIN_LON,DEATHS_DIRECT,DEATHS_INDIRECT,INJURIES_DIRECT,INJURIES_INDIRECT,DAMAGE_PROPERTY,DAMAGE_CROPS,SOURCE,EVENT_NARRATIVE
+900001,700000,Thunderstorm Wind,GEORGIA,CARROLL,TYUS,202507,3,1540,33.58,-85.08,0,0,0,0,25K,0,Synthetic Test Fixture,Minor roof damage.
+900002,700000,Flash Flood,TEXAS,HARRIS,HOUSTON,202507,4,0215,29.76,-95.37,1,0,4,0,2.5M,150K,Synthetic Test Fixture,Homes and vehicles flooded.
+900003,700001,Tornado,OKLAHOMA,CANADIAN,EL RENO,202507,5,1830,35.53,-97.95,0,0,12,1,750K,0,Synthetic Test Fixture,Buildings damaged and residents injured.
+900004,700001,Hail,KANSAS,SEDGWICK,WICHITA,202507,6,1445,37.69,-97.34,0,0,0,0,100K,50K,Synthetic Test Fixture,Vehicles and crops damaged.
+900005,700002,Wildfire,CALIFORNIA,BUTTE,PARADISE,202507,7,1100,39.76,-121.62,2,0,3,0,12M,500K,Synthetic Test Fixture,Structures damaged and evacuations required.
+900006,700002,Winter Storm,COLORADO,EL PASO,COLORADO SPRINGS,202501,8,0600,38.83,-104.82,0,0,2,0,300K,0,Synthetic Test Fixture,Travel disruption and injuries.
+900007,700003,High Wind,NEW YORK,ERIE,BUFFALO,202502,9,2240,42.89,-78.88,0,0,0,0,80K,0,Synthetic Test Fixture,Power lines damaged.
+900008,700003,Lightning,FLORIDA,ORANGE,ORLANDO,202503,10,1710,28.54,-81.38,1,0,1,0,10K,0,Synthetic Test Fixture,Lightning caused injuries and a small fire.
+900009,700004,Heavy Rain,LOUISIANA,EAST BATON ROUGE,BATON ROUGE,202504,11,0900,30.45,-91.14,0,0,0,0,,25K,Synthetic Test Fixture,Property damage not assessed.
+900010,700004,Flash Flood,ARIZONA,MARICOPA,PHOENIX,202505,12,2030,33.45,-112.07,0,0,5,0,1.2M,,Synthetic Test Fixture,Road damage; crop damage not assessed.
+900011,700005,Drought,IOWA,POLK,DES MOINES,202506,13,1200,41.59,-93.62,0,0,0,0,0,3M,Synthetic Test Fixture,Agricultural losses reported.
+900012,700005,Tropical Storm,NORTH CAROLINA,NEW HANOVER,WILMINGTON,202508,14,1640,34.21,-77.89,0,1,6,2,5M,2M,Synthetic Test Fixture,Flooding and wind damage.
+900013,700006,Marine Thunderstorm Wind,FLORIDA,MIAMI-DADE,MIAMI,202509,15,1320,25.76,-80.19,0,0,0,0,5K,0,Synthetic Test Fixture,Coastal operations affected.
+900014,700006,Dense Fog,PENNSYLVANIA,PHILADELPHIA,PHILADELPHIA,202510,16,0715,40.0,-75.16,0,0,0,0,0,0,Synthetic Test Fixture,Visibility reduced; no damage reported.
+900015,700007,Coastal Flood,SOUTH CAROLINA,CHARLESTON,CHARLESTON,202511,17,0500,32.78,-79.93,0,0,2,0,900K,10K,Synthetic Test Fixture,Buildings and streets affected.
+900016,700007,Extreme Cold,MINNESOTA,HENNEPIN,MINNEAPOLIS,202512,18,2300,,,0,0,0,0,,,Synthetic Test Fixture,Damage totals not assessed.
+900017,700008,Tornado,MISSOURI,GREENE,SPRINGFIELD,202507,19,1905,37.21,-93.29,0,0,7,0,1.5M,0,Synthetic Test Fixture,Roofs and trees damaged.
+900018,700008,Hail,NEBRASKA,DOUGLAS,OMAHA,202507,20,1515,41.26,-95.94,0,0,0,0,250K,100K,Synthetic Test Fixture,Cars and crops damaged.
+900019,700009,Flash Flood,TENNESSEE,DAVIDSON,NASHVILLE,202507,21,0310,36.16,-86.78,0,0,2,0,400K,0,Synthetic Test Fixture,Roads and basements damaged.
+900020,700009,Strong Wind,OREGON,MULTNOMAH,PORTLAND,202507,22,1250,45.52,-122.68,0,0,0,0,15K,0,Synthetic Test Fixture,Branches brought down.
+900021,700010,Heavy Snow,VERMONT,CHITTENDEN,BURLINGTON,202501,23,0800,44.48,-73.21,0,0,1,0,50K,0,Synthetic Test Fixture,One minor injury.
+900022,700010,Rip Current,CALIFORNIA,SAN DIEGO,SAN DIEGO,202506,24,1630,32.72,-117.16,1,0,0,0,0,0,Synthetic Test Fixture,One reported fatality.
+900023,700011,Thunderstorm Wind,ALABAMA,JEFFERSON,BIRMINGHAM,202508,25,1745,33.52,-86.8,0,0,0,0,60K,0,Synthetic Test Fixture,Trees and roofs damaged.
+900024,700011,Flash Flood,UTAH,SALT LAKE,SALT LAKE CITY,202509,26,2210,40.76,-111.89,0,0,3,0,800K,0,Synthetic Test Fixture,Roads and vehicles damaged.
+900025,700012,Hurricane,FLORIDA,PINELLAS,ST PETERSBURG,202510,27,2000,27.77,-82.64,0,0,9,1,25M,4M,Synthetic Test Fixture,Extensive wind and flood damage.
+900026,700012,Dust Storm,NEW MEXICO,BERNALILLO,ALBUQUERQUE,202504,28,1610,35.08,-106.65,0,0,0,0,5K,0,Synthetic Test Fixture,Visibility reduced.
+900027,700013,Extreme Heat,NEVADA,CLARK,LAS VEGAS,202507,29,1430,36.17,-115.14,1,0,2,0,0,0,Synthetic Test Fixture,One death and reported illness.
+900028,700013,Heavy Rain,WASHINGTON,KING,SEATTLE,202508,30,1015,47.61,-122.33,0,0,0,0,125K,,Synthetic Test Fixture,Localized property damage.
+900029,700014,Tornado,ILLINOIS,COOK,CHICAGO,202509,1,1740,41.88,-87.63,0,0,0,0,2M,0,Synthetic Test Fixture,Roofs and commercial buildings damaged.
+900030,700014,Flash Flood,KENTUCKY,JEFFERSON,LOUISVILLE,202509,2,0440,38.25,-85.76,0,0,4,1,650K,20K,Synthetic Test Fixture,Homes damaged and residents injured.

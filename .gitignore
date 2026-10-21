@@ -1,0 +1,42 @@
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Backup files
+*.bak
+*.bak_*
+
+# Input datasets: keep selected small demo files only
+backend/data/input/*
+!backend/data/input/.gitkeep
+!backend/data/input/interoperai_resque_test_disasters.csv
+!backend/data/input/noaa_storm_events_dynamic_test_fixture.csv
+!backend/data/input/sample_disaster_data.csv
+!backend/data/input/noaa_storm_events_2025_sample.csv
+
+# Generated outputs
+backend/data/processed/*
+!backend/data/processed/.gitkeep
+backend/data/results/*
+!backend/data/results/.gitkeep
+
+# Frontend dependencies and builds
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
