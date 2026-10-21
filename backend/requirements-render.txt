@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+pandas
+numpy
+httpx
+python-dotenv
+python-multipart
